@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:
+title:  nilbus.com
+locale: en_US
+url: /nilbus.com
 
 
 # Jekyll configuration
@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  name: Edward Anderson
+  avatar: https://en.gravatar.com/userimage/2654461/28340133974921c7fc852219d8b6a039.jpg?size=200
+  bio: "Rubyist and git lover"
+  email: nilbus@nilbus.com
+  disqus-shortname: nilbus
+  twitter: nilbus
+  facebook:
   google:
-    plus: #username
-    analytics:
+    plus:
+    analytics: UA-3340860-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  github: nilbus
+  stackoverflow: 87298/nilbus
+  linkedin: nilbus
   xing: #username
   instagram: #username
   lastfm: #username
