@@ -7,6 +7,7 @@ excerpt: "There's an edge case when using diff3 with git that can make conflicts
 a nightmare to understand. Learn how to understand and resolve these most dreaded
 conflicts."
 tags: [git diff3 conflicts]
+comments: true
 image:
   feature:
 date: 2015-10-29T23:09:11-04:00
