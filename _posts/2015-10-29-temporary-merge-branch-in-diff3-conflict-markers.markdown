@@ -138,8 +138,8 @@ merging `ffffff` and `gggggg` as `eeeeee`, but `Temporary merge branch 2` resolv
 that same conflict by deleting (or moving) the line (thus no lines between `======`
 and `Temporary merge branch 2`.
 
-  [1]: http://i.stack.imgur.com/56OpC.png
-  [2]: http://i.stack.imgur.com/xTKq4.png
+  [1]: //i.stack.imgur.com/56OpC.png
+  [2]: //i.stack.imgur.com/xTKq4.png
 
 How do you resolve a conflict like this? While technical analysis may be possible,
 your safest option is usually to go back and review the history in all the involved
