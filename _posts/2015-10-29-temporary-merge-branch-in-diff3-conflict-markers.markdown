@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Temporary Merge Branch in Diff3 Conflict Markers"
+title: "Temporary Merge Branch in diff3 Conflict Markers"
 modified:
 categories:
 excerpt: "There's an edge case when using diff3 with git that can make conflicts
