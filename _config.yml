@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Edward Anderson
-  avatar: https://en.gravatar.com/userimage/2654461/28340133974921c7fc852219d8b6a039.jpg?size=200
+  avatar: https://www.gravatar.com/avatar/bd2e27498ad94413dcc5d4d660dd43cf?s=300
   bio: "Rubyist and git lover"
   email: nilbus@nilbus.com
   disqus-shortname: nilbus
