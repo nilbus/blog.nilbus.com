@@ -26,7 +26,7 @@ whenever my Macbook camera turns on or off.
 This guide walks through the process of setting up HomeKit automation on MacOS
 whenever any of your Mac's cameras turn on or off.
 
-[Meross Smart Plugs]: https://www.amazon.com/gp/product/B084JHJBQT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084JHJBQT&linkCode=as2&tag=nilbus-20&linkId=1aa18b766910c28acde469f16b77d38f
+[Meross Smart Plugs]: https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=nilbus-20&keywords=meross%20smart%20plug%20mini%20homekit&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=27ebef0cb81e4e253735c537634f16f8
 
 Overall steps
 -------
