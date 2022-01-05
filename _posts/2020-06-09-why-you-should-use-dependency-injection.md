@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Why You Should Use Dependency Injection"
+modified:
+categories:
+excerpt: "Dependency Injection is one practice that you may be familiar with, but how often do you actually use it in your every-day code?"
+tags: [software-engineering]
+comments: true
+image:
+  feature: https://res.cloudinary.com/dhttas9u5/image/upload/c_fill,fl_progressive,h_800,q_auto,w_1600/possessed-photography-YKW0JjP7rlU-unsplash_1_gs5mju.jpg
+date: 2020-06-09T22:15:00-04:00
+---
 As software engineers, we generally have a strong desire to write clean, maintainable code. We want changes to take as long as they seem they intuitively should, not get hung up in a hard-to-understand mess. We want to write code that will be a pleasure rather than a pain for us and others to work with later. To this end, we attempt to use good software design principles such as [SOLID](https://en.wikipedia.org/wiki/SOLID). Dependency Injection is one practice that you may be familiar with, but how often do you actually use it in your every-day code? My goal in attending Chris Hoffman’s talk [Injecting Dependencies for Fun and Profit](https://www.youtube.com/watch?v=b5vfNcjJsLU) at RubyConf 2019 was to become inspired and motivated to better use Dependency Injection and understand the benefits it offers. I found what I was looking for!
 
 Examine the differences between these two blocks of Ruby code for controlling a robot that can communicate with speech:
