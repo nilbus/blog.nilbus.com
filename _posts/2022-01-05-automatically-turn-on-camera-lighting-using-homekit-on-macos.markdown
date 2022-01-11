@@ -150,8 +150,8 @@ Optional steps:
 
 
 With that running… Magic! My desk lamp automatically turns on whenever I join a
-meeting or a [Roundsy][] social mixer (a free app we built for virtual event
-attendees to chat with other random attendees in small groups).
+meeting or a [Roundsy][] social mixer (a free app Doximity built for any kind of
+virtual event attendees to chat with other random attendees in small groups).
 
 Next up: Light up a sign _outside_ my office to signal my kids not to walk into
 my meetings! 😃
