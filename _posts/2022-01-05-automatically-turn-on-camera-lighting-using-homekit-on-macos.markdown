@@ -146,7 +146,7 @@ Optional steps:
       bash camera-lamp.sh &
 
 - Drop the extension, make the file executable, and relocate it to `/usr/local/bin` or elsewhere in your `$PATH`, so you can just run `camera-lamp` as a command.
-- Find a way to run the script in the background as a daemon on login. How to accomplish this is beyond the scope of this answer. Importantly though, this cannot run as a launchctl daemon, as these daemons cannot run shortcuts due to `Error: Couldn’t communicate with a helper application`. If you find a good approach, feel free to comment.
+- Find a way to run the script in the background as a daemon on login. How to accomplish this is beyond the scope of this guide. Importantly though, this cannot run as a `launchctl` daemon, as these daemons cannot run shortcuts due to `Error: Couldn’t communicate with a helper application`.
 
 
 With that running… Magic! My desk lamp automatically turns on whenever I join a
