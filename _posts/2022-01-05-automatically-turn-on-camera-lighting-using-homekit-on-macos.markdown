@@ -3,7 +3,7 @@ layout: post
 title: "Automatically turn on camera lighting using HomeKit on MacOS"
 modified:
 categories:
-excerpt: "My desk lamp now turns on whenever I join a meeting for work. Magic! This article will walk you through setting up something similar for your Mac."
+excerpt: "My desk lamp now turns on whenever I join a meeting for work. Magic! This guide will walk you through setting up something similar for your Mac."
 tags: [automation]
 comments: true
 image:
