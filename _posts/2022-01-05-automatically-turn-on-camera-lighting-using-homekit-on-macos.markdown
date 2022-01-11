@@ -130,6 +130,9 @@ If you needed to choose a different filter in step 1:
 2. replace the `sed` substitution regular expression with one that matches the equivalent word that indicates the camera state, and
 3. if that word is not `start` when the camera turns on, update the `if` conditional that matches the `start` word.
 
+This will trigger when _any_ connected camera changes its state, but you can make
+the grep filter more specific to limit it to a specific camera.
+
 Run the script
 ---
 
