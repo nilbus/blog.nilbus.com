@@ -52,7 +52,7 @@ In Terminal, run this to filter the logs to the expected messages on MacOS Monte
 
     log stream | /usr/bin/grep -E 'UVCAssistant:.*(stop|start) stream'
 
-While that's running, open the Photo Booth app. You'll hopefully see lines like these output from the filtered log stream when the camera starts and stops (which you can trigger by quitting and restarting the app or switching cameras).
+While that's running, open the Photo Booth app or any video conferencing software. You'll hopefully see lines like these output from the filtered log stream when the camera starts and stops (which you can trigger by quitting and restarting Photo Booth or toggling the camera).
 
 ```
 2022-01-04 14:56:58.628006-0500 0xb35b3    Default     0x18025b             266    0    UVCAssistant: (UVCFamily) [com.apple.UVCFamily:device] UVCUSBDeviceStreamingInterface: 0x1000005a6 [0x7fcd7bd08260] [start stream] format : UVCDeviceStreamFormat:[1280 * 720 (YUV420_420v)] [0x7fcd7bd08e90] [subtype 4] frameInterval : 333333
