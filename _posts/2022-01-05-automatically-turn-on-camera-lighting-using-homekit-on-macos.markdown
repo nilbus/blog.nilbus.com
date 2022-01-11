@@ -3,7 +3,7 @@ layout: post
 title: "Automatically turn on camera lighting using HomeKit on MacOS"
 modified:
 categories:
-excerpt: "My desk lamp now turns on whenever I join a meeting for work. Magic!  This article will walk you through setting up something similar for your Mac."
+excerpt: "My desk lamp now turns on whenever I join a meeting for work. Magic! This article will walk you through setting up something similar for your Mac."
 tags: [automation]
 comments: true
 image:
@@ -11,7 +11,13 @@ image:
 date: 2022-01-05T11:37:25-05:00
 ---
 
-Looking great on camera while working from home requires good lighting. I have a
+Looking great on camera while working from home requires good lighting.
+
+Working at Doximity, a company that has been remote-first since long before the
+pandemic, necessitates a fair number of video calls as we collaborate and work
+on challenging problems together. Though meetings constitute only a fraction of
+my time, I appreciate having some good lighting during calls. I also appreciate
+having a little less light at other times to avoid irritating my eyes. I have a
 simple desk lamp that does the job, but it's slightly tedious to turn it on and
 off around my meetings. Time for some **auomation**!
 
