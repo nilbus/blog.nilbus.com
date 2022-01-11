@@ -16,7 +16,7 @@ Looking great on camera while working from home requires good lighting.
 Working at Doximity, a company that has been remote-first since long before the
 pandemic, necessitates a fair number of video calls as we collaborate and work
 on challenging problems together. Though meetings constitute only a fraction of
-my time, I appreciate having some good lighting during calls. I also appreciate
+my time, I appreciate having some good lighting during those calls. I also appreciate
 having a little less light at other times to avoid irritating my eyes. I have a
 simple desk lamp that does the job, but it's slightly tedious to turn it on and
 off around my meetings. Time for some **auomation**!
@@ -149,5 +149,11 @@ Optional steps:
 - Find a way to run the script in the background as a daemon on login. How to accomplish this is beyond the scope of this answer. Importantly though, this cannot run as a launchctl daemon, as these daemons cannot run shortcuts due to `Error: Couldn’t communicate with a helper application`. If you find a good approach, feel free to comment.
 
 
-With that running, my desk lamp now turns on whenever I join a meeting for work.
-Magic! Hopefully this is helpful for you as well.
+With that running… Magic! My desk lamp automatically turns on whenever I join a
+meeting or a [Roundsy][] social mixer (a free app we built for virtual event
+attendees to chat with other random attendees in small groups).
+
+Next up: Turn on a light _outside_ my office to signal my kids not to walk into
+meetings! 😃
+
+[Roundsy]: https://roundsy.com
