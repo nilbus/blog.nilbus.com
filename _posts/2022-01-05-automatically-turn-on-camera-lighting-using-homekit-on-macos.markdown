@@ -153,7 +153,7 @@ With that running… Magic! My desk lamp automatically turns on whenever I join 
 meeting or a [Roundsy][] social mixer (a free app we built for virtual event
 attendees to chat with other random attendees in small groups).
 
-Next up: Turn on a light _outside_ my office to signal my kids not to walk into
-meetings! 😃
+Next up: Light up a sign _outside_ my office to signal my kids not to walk into
+my meetings! 😃
 
 [Roundsy]: https://roundsy.com
