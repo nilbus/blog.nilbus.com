@@ -19,7 +19,7 @@ on challenging problems together. Though meetings constitute only a fraction of
 my time, I appreciate having some good lighting during those calls. I also appreciate
 having a little less light at other times to avoid irritating my eyes. I have a
 simple desk lamp that does the job, but it's slightly tedious to turn it on and
-off around my meetings. Time for some **auomation**!
+off around my meetings. Time for some **automation**!
 
 ![AUTOMATE ALL THE THINGS! meme](https://i.ibb.co/NnvdVg8/automate.jpg)
 
@@ -59,7 +59,7 @@ While that's running, open the Photo Booth app or any video conferencing softwar
 2022-01-04 14:57:31.179027-0500 0xb2227    Default     0x1803a4             266    0    UVCAssistant: (UVCFamily) [com.apple.UVCFamily:device] UVCUSBDeviceStreamingInterface: 0x1000005a6 [0x7fcd7bd08260] [stop stream] format : UVCDeviceStreamFormat:[1280 * 720 (YUV420_420v)] [0x7fcd7bd08e90] [subtype 4] frameInterval : 333333
 ```
 
-**If you get output, you're done with this step** and can use the the regular expression matchers I provide in the next steps.
+**If you get output, you're done with this step** and can use the regular expression matchers I provide in the next steps.
 
 **If you get no output**, you'll need to broaden the filter to search for event logs that appear when the camera starts and stops. This might be a good starting filter for your search:
 
