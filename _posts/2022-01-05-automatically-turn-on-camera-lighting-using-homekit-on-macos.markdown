@@ -158,7 +158,13 @@ With that running… Magic! My desk lamp automatically turns on whenever I join 
 meeting or a [Roundsy][] social mixer (a free app Doximity built for any kind of
 virtual event attendees to chat with other random attendees in small groups).
 
+This is a great automation for meetings, but you might want to turn the light on
+at other times too! 9to5Mac published a great video describing [how to create a
+manu bar button to toggle your Homekit Shortcuts][toggle button]. Adding a button to the
+Touch Bar Quick Actions is also an option, using the same basic approach.
+
 Next up: Light up a sign _outside_ my office to signal my kids not to walk into
 my meetings! 😃
 
 [Roundsy]: https://roundsy.com
+[toggle button]: https://www.youtube.com/watch?v=WgGKHO999qY
