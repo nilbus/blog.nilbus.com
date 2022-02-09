@@ -7,7 +7,7 @@ excerpt: "My desk lamp now turns on whenever I join a meeting for work. Magic! T
 tags: [automation]
 comments: true
 image:
-  feature:
+  feature: 2022-01-05-automatically-turn-on-camera-lighting-using-homekit-on-macos.png
 date: 2022-01-05T11:37:25-05:00
 ---
 
